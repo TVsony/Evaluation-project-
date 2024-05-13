@@ -3,10 +3,10 @@
 # 1 Avocado Project
 - The dataset can be seen from two angles to find the region and the average price.
 - One of Classification and the other of Regression
-- 
+  
 # 2 Baseball Case Study Project
 - Predicts the number of wins given team for next year.
-- 
+ 
 # 3 Global Power Plant Project
 - Prediction: Make two predictions
 - 1) Primary Fuel
